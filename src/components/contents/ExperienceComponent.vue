@@ -4,12 +4,8 @@
         <ul class="flex flex-col space-y-1 list-disc pl-5 sm:pr-3 max-sm:text-sm">
             <li>Ketua Organinasi</li>
             <p class="text-sm">Pernah menjabat selama 1 tahun sebagai ketua di 2020.</p>
-            <li>Instruktur Frontend</li>
-            <p class="text-sm">Menjadi mentor atau instruktur pada organisasi Budidarma Programming Club pada tahun 2023 selama 1 tahun (2 semester).</p>
-            <li>Mentor Mini-Workshop</li>
-            <p class="text-sm">Pernah menjadi mentor pada acara Mini-Workshop yang di adakan oleh Budidarma Programming Club.</p>
-            <li>Panitia Seminar</li>
-            <p class="text-sm">Pernah menjadi panitia pada acara seminar yang diadakan oleh kampus.</p>
+            <li>Wakil organisasi</li>
+            <p class="text-sm">Menjadi wakil desan grafis.</p>
         </ul>
     </div>
 </template>
