@@ -4,7 +4,7 @@
             <img :src="img" alt="profil image"
                 class="w-52 max-sm:w-48 h-52 max-sm:h-48 rounded-full bg-title border border-text" />
         </figure>
-        <h1 class="font-bold sm:text-4xl max-sm:text-3xl sm:mb-1 max-sm:mb-2">Hi, I'm <span class="text-title">Alanzo Yu</span></h1>
+        <h1 class="font-bold max-sm :text-center sm:text-4xl max-sm:text-3xl sm:mb-1 max-sm:mb-2">Hi, I'm <span class="text-title">Alanzo Yu</span></h1>
         <h2 class="font-bold text-2xl mb-3">Frontend Developer</h2>
         <p class="text-justify max-sm:text-center leading-relaxed max-sm:text-sm">"Teruslah Berkerja keras pantang menyerah dan raihlah cita-cita mu setinggi mungkin buat bangga orang tua mu dan selamat suksek".</p>
         <ul class="flex items-center gap-x-5 mt-6">
