@@ -4,8 +4,6 @@
         <ul class="flex flex-col space-y-1 list-disc pl-5 sm:pr-3 max-sm:text-sm">
             <li>Ketua Organinasi</li>
             <p class="text-sm">Pernah menjabat selama 1 tahun sebagai ketua di 2020.</p>
-            <li>Wakil organisasi</li>
-            <p class="text-sm">Menjadi wakil desan grafis.</p>
         </ul>
     </div>
 </template>
